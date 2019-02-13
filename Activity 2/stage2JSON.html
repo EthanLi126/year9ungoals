@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script> 
+	<title>Stage 2 JSON Activity.</title>
+</head>
+<body>
+
+
+<script>
+    var myData = "";
+var staticUrl = 'https://raw.githubusercontent.com/ethanli126/ethanli126.github.io//Activity%2/data/HIVdata.json'; 
+
+$.getJSON(staticUrl, function(data) {
+        console.log(data)
+    });</script>
+<!--
+<script>
+	window.onload = function() {
+    if (window.jQuery) {  
+        // jQuery is loaded  
+        alert("Yeah!");
+    } else {
+        // jQuery is not loaded
+        alert("Doesn't Work");
+    }
+}</script>
+-->
+</body>
+</html>

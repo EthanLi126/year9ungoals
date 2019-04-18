@@ -1,0 +1,2906 @@
+{
+  "dimension": [
+                 {
+                   "label": "GHO",
+                   "display": "Indicator"
+                 },
+                 {
+                   "label": "PUBLISHSTATE",
+                   "display": "PUBLISH STATES"
+                 },
+                 {
+                   "label": "YEAR",
+                   "display": "Year"
+                 },
+                 {
+                   "label": "REGION",
+                   "display": "WHO region"
+                 },
+                 {
+                   "label": "RESIDENCEAREATYPE",
+                   "display": "Residence Area Type"
+                 }
+               ],
+    "fact": [
+              {
+                "dims": {
+                          "REGION": "Africa",
+                          "YEAR": "2015",
+                          "GHO": "Population using at least basic drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Rural"
+                        },
+                "Value": "44"
+              },
+              {
+                "dims": {
+                          "REGION": "Africa",
+                          "YEAR": "2015",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Urban"
+                        },
+                "Value": "49"
+              },
+              {
+                "dims": {
+                          "REGION": "Africa",
+                          "YEAR": "2015",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Total"
+                        },
+                "Value": "26"
+              },
+              {
+                "dims": {
+                          "REGION": "Africa",
+                          "YEAR": "2014",
+                          "GHO": "Population using at least basic drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Rural"
+                        },
+                "Value": "43"
+              },
+              {
+                "dims": {
+                          "REGION": "Africa",
+                          "YEAR": "2014",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Urban"
+                        },
+                "Value": "49"
+              },
+              {
+                "dims": {
+                          "REGION": "Africa",
+                          "YEAR": "2014",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Total"
+                        },
+                "Value": "25"
+              },
+              {
+                "dims": {
+                          "REGION": "Africa",
+                          "YEAR": "2013",
+                          "GHO": "Population using at least basic drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Rural"
+                        },
+                "Value": "42"
+              },
+              {
+                "dims": {
+                          "REGION": "Africa",
+                          "YEAR": "2013",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Urban"
+                        },
+                "Value": "48"
+              },
+              {
+                "dims": {
+                          "REGION": "Africa",
+                          "YEAR": "2013",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Total"
+                        },
+                "Value": "25"
+              },
+              {
+                "dims": {
+                          "REGION": "Africa",
+                          "YEAR": "2012",
+                          "GHO": "Population using at least basic drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Rural"
+                        },
+                "Value": "41"
+              },
+              {
+                "dims": {
+                          "REGION": "Africa",
+                          "YEAR": "2012",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Urban"
+                        },
+                "Value": "48"
+              },
+              {
+                "dims": {
+                          "REGION": "Africa",
+                          "YEAR": "2012",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Total"
+                        },
+                "Value": "25"
+              },
+              {
+                "dims": {
+                          "REGION": "Africa",
+                          "YEAR": "2011",
+                          "GHO": "Population using at least basic drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Rural"
+                        },
+                "Value": "40"
+              },
+              {
+                "dims": {
+                          "REGION": "Africa",
+                          "YEAR": "2011",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Urban"
+                        },
+                "Value": "48"
+              },
+              {
+                "dims": {
+                          "REGION": "Africa",
+                          "YEAR": "2011",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Total"
+                        },
+                "Value": "24"
+              },
+              {
+                "dims": {
+                          "REGION": "Africa",
+                          "YEAR": "2010",
+                          "GHO": "Population using at least basic drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Rural"
+                        },
+                "Value": "39"
+              },
+              {
+                "dims": {
+                          "REGION": "Africa",
+                          "YEAR": "2010",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Urban"
+                        },
+                "Value": "48"
+              },
+              {
+                "dims": {
+                          "REGION": "Africa",
+                          "YEAR": "2010",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Total"
+                        },
+                "Value": "24"
+              },
+              {
+                "dims": {
+                          "REGION": "Africa",
+                          "YEAR": "2009",
+                          "GHO": "Population using at least basic drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Rural"
+                        },
+                "Value": "38"
+              },
+              {
+                "dims": {
+                          "REGION": "Africa",
+                          "YEAR": "2009",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Urban"
+                        },
+                "Value": "48"
+              },
+              {
+                "dims": {
+                          "REGION": "Africa",
+                          "YEAR": "2009",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Total"
+                        },
+                "Value": "23"
+              },
+              {
+                "dims": {
+                          "REGION": "Africa",
+                          "YEAR": "2008",
+                          "GHO": "Population using at least basic drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Rural"
+                        },
+                "Value": "38"
+              },
+              {
+                "dims": {
+                          "REGION": "Africa",
+                          "YEAR": "2008",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Urban"
+                        },
+                "Value": "48"
+              },
+              {
+                "dims": {
+                          "REGION": "Africa",
+                          "YEAR": "2008",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Total"
+                        },
+                "Value": "23"
+              },
+              {
+                "dims": {
+                          "REGION": "Africa",
+                          "YEAR": "2007",
+                          "GHO": "Population using at least basic drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Rural"
+                        },
+                "Value": "37"
+              },
+              {
+                "dims": {
+                          "REGION": "Africa",
+                          "YEAR": "2007",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Urban"
+                        },
+                "Value": "48"
+              },
+              {
+                "dims": {
+                          "REGION": "Africa",
+                          "YEAR": "2007",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Total"
+                        },
+                "Value": "23"
+              },
+              {
+                "dims": {
+                          "REGION": "Africa",
+                          "YEAR": "2006",
+                          "GHO": "Population using at least basic drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Rural"
+                        },
+                "Value": "36"
+              },
+              {
+                "dims": {
+                          "REGION": "Africa",
+                          "YEAR": "2006",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Urban"
+                        },
+                "Value": "48"
+              },
+              {
+                "dims": {
+                          "REGION": "Africa",
+                          "YEAR": "2006",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Total"
+                        },
+                "Value": "22"
+              },
+              {
+                "dims": {
+                          "REGION": "Africa",
+                          "YEAR": "2005",
+                          "GHO": "Population using at least basic drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Rural"
+                        },
+                "Value": "35"
+              },
+              {
+                "dims": {
+                          "REGION": "Africa",
+                          "YEAR": "2005",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Urban"
+                        },
+                "Value": "48"
+              },
+              {
+                "dims": {
+                          "REGION": "Africa",
+                          "YEAR": "2005",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Total"
+                        },
+                "Value": "22"
+              },
+              {
+                "dims": {
+                          "REGION": "Africa",
+                          "YEAR": "2004",
+                          "GHO": "Population using at least basic drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Rural"
+                        },
+                "Value": "34"
+              },
+              {
+                "dims": {
+                          "REGION": "Africa",
+                          "YEAR": "2004",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Urban"
+                        },
+                "Value": "47"
+              },
+              {
+                "dims": {
+                          "REGION": "Africa",
+                          "YEAR": "2004",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Total"
+                        },
+                "Value": "22"
+              },
+              {
+                "dims": {
+                          "REGION": "Africa",
+                          "YEAR": "2003",
+                          "GHO": "Population using at least basic drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Rural"
+                        },
+                "Value": "33"
+              },
+              {
+                "dims": {
+                          "REGION": "Africa",
+                          "YEAR": "2003",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Urban"
+                        },
+                "Value": "47"
+              },
+              {
+                "dims": {
+                          "REGION": "Africa",
+                          "YEAR": "2003",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Total"
+                        },
+                "Value": "21"
+              },
+              {
+                "dims": {
+                          "REGION": "Africa",
+                          "YEAR": "2002",
+                          "GHO": "Population using at least basic drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Rural"
+                        },
+                "Value": "33"
+              },
+              {
+                "dims": {
+                          "REGION": "Africa",
+                          "YEAR": "2002",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Urban"
+                        },
+                "Value": "47"
+              },
+              {
+                "dims": {
+                          "REGION": "Africa",
+                          "YEAR": "2002",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Total"
+                        },
+                "Value": "21"
+              },
+              {
+                "dims": {
+                          "REGION": "Africa",
+                          "YEAR": "2001",
+                          "GHO": "Population using at least basic drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Rural"
+                        },
+                "Value": "32"
+              },
+              {
+                "dims": {
+                          "REGION": "Africa",
+                          "YEAR": "2001",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Urban"
+                        },
+                "Value": "47"
+              },
+              {
+                "dims": {
+                          "REGION": "Africa",
+                          "YEAR": "2001",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Total"
+                        },
+                "Value": "21"
+              },
+              {
+                "dims": {
+                          "REGION": "Africa",
+                          "YEAR": "2000",
+                          "GHO": "Population using at least basic drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Rural"
+                        },
+                "Value": "31"
+              },
+              {
+                "dims": {
+                          "REGION": "Africa",
+                          "YEAR": "2000",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Urban"
+                        },
+                "Value": "47"
+              },
+              {
+                "dims": {
+                          "REGION": "Africa",
+                          "YEAR": "2000",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Total"
+                        },
+                "Value": "20"
+              },
+              {
+                "dims": {
+                          "REGION": "Americas",
+                          "YEAR": "2015",
+                          "GHO": "Population using at least basic drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Rural"
+                        },
+                "Value": "90"
+              },
+              {
+                "dims": {
+                          "REGION": "Americas",
+                          "YEAR": "2015",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Urban"
+                        },
+                "Value": "88"
+              },
+              {
+                "dims": {
+                          "REGION": "Americas",
+                          "YEAR": "2015",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Total"
+                        },
+                "Value": "82"
+              },
+              {
+                "dims": {
+                          "REGION": "Americas",
+                          "YEAR": "2014",
+                          "GHO": "Population using at least basic drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Rural"
+                        },
+                "Value": "89"
+              },
+              {
+                "dims": {
+                          "REGION": "Americas",
+                          "YEAR": "2014",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Urban"
+                        },
+                "Value": "88"
+              },
+              {
+                "dims": {
+                          "REGION": "Americas",
+                          "YEAR": "2014",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Total"
+                        },
+                "Value": "82"
+              },
+              {
+                "dims": {
+                          "REGION": "Americas",
+                          "YEAR": "2013",
+                          "GHO": "Population using at least basic drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Rural"
+                        },
+                "Value": "88"
+              },
+              {
+                "dims": {
+                          "REGION": "Americas",
+                          "YEAR": "2013",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Urban"
+                        },
+                "Value": "88"
+              },
+              {
+                "dims": {
+                          "REGION": "Americas",
+                          "YEAR": "2013",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Total"
+                        },
+                "Value": "82"
+              },
+              {
+                "dims": {
+                          "REGION": "Americas",
+                          "YEAR": "2012",
+                          "GHO": "Population using at least basic drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Rural"
+                        },
+                "Value": "88"
+              },
+              {
+                "dims": {
+                          "REGION": "Americas",
+                          "YEAR": "2012",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Urban"
+                        },
+                "Value": "88"
+              },
+              {
+                "dims": {
+                          "REGION": "Americas",
+                          "YEAR": "2012",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Total"
+                        },
+                "Value": "82"
+              },
+              {
+                "dims": {
+                          "REGION": "Americas",
+                          "YEAR": "2011",
+                          "GHO": "Population using at least basic drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Rural"
+                        },
+                "Value": "87"
+              },
+              {
+                "dims": {
+                          "REGION": "Americas",
+                          "YEAR": "2011",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Urban"
+                        },
+                "Value": "88"
+              },
+              {
+                "dims": {
+                          "REGION": "Americas",
+                          "YEAR": "2011",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Total"
+                        },
+                "Value": "82"
+              },
+              {
+                "dims": {
+                          "REGION": "Americas",
+                          "YEAR": "2010",
+                          "GHO": "Population using at least basic drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Rural"
+                        },
+                "Value": "86"
+              },
+              {
+                "dims": {
+                          "REGION": "Americas",
+                          "YEAR": "2010",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Urban"
+                        },
+                "Value": "88"
+              },
+              {
+                "dims": {
+                          "REGION": "Americas",
+                          "YEAR": "2010",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Total"
+                        },
+                "Value": "81"
+              },
+              {
+                "dims": {
+                          "REGION": "Americas",
+                          "YEAR": "2009",
+                          "GHO": "Population using at least basic drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Rural"
+                        },
+                "Value": "86"
+              },
+              {
+                "dims": {
+                          "REGION": "Americas",
+                          "YEAR": "2009",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Urban"
+                        },
+                "Value": "88"
+              },
+              {
+                "dims": {
+                          "REGION": "Americas",
+                          "YEAR": "2009",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Total"
+                        },
+                "Value": "81"
+              },
+              {
+                "dims": {
+                          "REGION": "Americas",
+                          "YEAR": "2008",
+                          "GHO": "Population using at least basic drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Rural"
+                        },
+                "Value": "85"
+              },
+              {
+                "dims": {
+                          "REGION": "Americas",
+                          "YEAR": "2008",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Urban"
+                        },
+                "Value": "88"
+              },
+              {
+                "dims": {
+                          "REGION": "Americas",
+                          "YEAR": "2008",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Total"
+                        },
+                "Value": "81"
+              },
+              {
+                "dims": {
+                          "REGION": "Americas",
+                          "YEAR": "2007",
+                          "GHO": "Population using at least basic drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Rural"
+                        },
+                "Value": "85"
+              },
+              {
+                "dims": {
+                          "REGION": "Americas",
+                          "YEAR": "2007",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Urban"
+                        },
+                "Value": "89"
+              },
+              {
+                "dims": {
+                          "REGION": "Americas",
+                          "YEAR": "2007",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Total"
+                        },
+                "Value": "81"
+              },
+              {
+                "dims": {
+                          "REGION": "Americas",
+                          "YEAR": "2006",
+                          "GHO": "Population using at least basic drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Rural"
+                        },
+                "Value": "84"
+              },
+              {
+                "dims": {
+                          "REGION": "Americas",
+                          "YEAR": "2006",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Urban"
+                        },
+                "Value": "89"
+              },
+              {
+                "dims": {
+                          "REGION": "Americas",
+                          "YEAR": "2006",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Total"
+                        },
+                "Value": "81"
+              },
+              {
+                "dims": {
+                          "REGION": "Americas",
+                          "YEAR": "2005",
+                          "GHO": "Population using at least basic drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Rural"
+                        },
+                "Value": "83"
+              },
+              {
+                "dims": {
+                          "REGION": "Americas",
+                          "YEAR": "2005",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Urban"
+                        },
+                "Value": "89"
+              },
+              {
+                "dims": {
+                          "REGION": "Americas",
+                          "YEAR": "2005",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Total"
+                        },
+                "Value": "81"
+              },
+              {
+                "dims": {
+                          "REGION": "Americas",
+                          "YEAR": "2004",
+                          "GHO": "Population using at least basic drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Rural"
+                        },
+                "Value": "84"
+              },
+              {
+                "dims": {
+                          "REGION": "Americas",
+                          "YEAR": "2004",
+                          "GHO": "Population using at least basic drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Total"
+                        },
+                "Value": "95"
+              },
+              {
+                "dims": {
+                          "REGION": "Americas",
+                          "YEAR": "2004",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Urban"
+                        },
+                "Value": "89"
+              },
+              {
+                "dims": {
+                          "REGION": "Americas",
+                          "YEAR": "2003",
+                          "GHO": "Population using at least basic drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Rural"
+                        },
+                "Value": "83"
+              },
+              {
+                "dims": {
+                          "REGION": "Americas",
+                          "YEAR": "2003",
+                          "GHO": "Population using at least basic drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Total"
+                        },
+                "Value": "95"
+              },
+              {
+                "dims": {
+                          "REGION": "Americas",
+                          "YEAR": "2003",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Urban"
+                        },
+                "Value": "89"
+              },
+              {
+                "dims": {
+                          "REGION": "Americas",
+                          "YEAR": "2002",
+                          "GHO": "Population using at least basic drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Rural"
+                        },
+                "Value": "82"
+              },
+              {
+                "dims": {
+                          "REGION": "Americas",
+                          "YEAR": "2002",
+                          "GHO": "Population using at least basic drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Total"
+                        },
+                "Value": "94"
+              },
+              {
+                "dims": {
+                          "REGION": "Americas",
+                          "YEAR": "2002",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Urban"
+                        },
+                "Value": "89"
+              },
+              {
+                "dims": {
+                          "REGION": "Americas",
+                          "YEAR": "2001",
+                          "GHO": "Population using at least basic drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Rural"
+                        },
+                "Value": "82"
+              },
+              {
+                "dims": {
+                          "REGION": "Americas",
+                          "YEAR": "2001",
+                          "GHO": "Population using at least basic drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Total"
+                        },
+                "Value": "94"
+              },
+              {
+                "dims": {
+                          "REGION": "Americas",
+                          "YEAR": "2001",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Urban"
+                        },
+                "Value": "89"
+              },
+              {
+                "dims": {
+                          "REGION": "Americas",
+                          "YEAR": "2000",
+                          "GHO": "Population using at least basic drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Rural"
+                        },
+                "Value": "81"
+              },
+              {
+                "dims": {
+                          "REGION": "Americas",
+                          "YEAR": "2000",
+                          "GHO": "Population using at least basic drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Total"
+                        },
+                "Value": "94"
+              },
+              {
+                "dims": {
+                          "REGION": "Americas",
+                          "YEAR": "2000",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Urban"
+                        },
+                "Value": "89"
+              },
+              {
+                "dims": {
+                          "REGION": "South-East Asia",
+                          "YEAR": "2015",
+                          "GHO": "Population using at least basic drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Urban"
+                        },
+                "Value": "94"
+              },
+              {
+                "dims": {
+                          "REGION": "South-East Asia",
+                          "YEAR": "2015",
+                          "GHO": "Population using at least basic drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Total"
+                        },
+                "Value": "89"
+              },
+              {
+                "dims": {
+                          "REGION": "South-East Asia",
+                          "YEAR": "2015",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Rural"
+                        },
+                "Value": "54"
+              },
+              {
+                "dims": {
+                          "REGION": "South-East Asia",
+                          "YEAR": "2014",
+                          "GHO": "Population using at least basic drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Urban"
+                        },
+                "Value": "94"
+              },
+              {
+                "dims": {
+                          "REGION": "South-East Asia",
+                          "YEAR": "2014",
+                          "GHO": "Population using at least basic drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Total"
+                        },
+                "Value": "88"
+              },
+              {
+                "dims": {
+                          "REGION": "South-East Asia",
+                          "YEAR": "2014",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Rural"
+                        },
+                "Value": "53"
+              },
+              {
+                "dims": {
+                          "REGION": "South-East Asia",
+                          "YEAR": "2013",
+                          "GHO": "Population using at least basic drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Urban"
+                        },
+                "Value": "94"
+              },
+              {
+                "dims": {
+                          "REGION": "South-East Asia",
+                          "YEAR": "2013",
+                          "GHO": "Population using at least basic drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Total"
+                        },
+                "Value": "88"
+              },
+              {
+                "dims": {
+                          "REGION": "South-East Asia",
+                          "YEAR": "2013",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Rural"
+                        },
+                "Value": "52"
+              },
+              {
+                "dims": {
+                          "REGION": "South-East Asia",
+                          "YEAR": "2012",
+                          "GHO": "Population using at least basic drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Urban"
+                        },
+                "Value": "94"
+              },
+              {
+                "dims": {
+                          "REGION": "South-East Asia",
+                          "YEAR": "2012",
+                          "GHO": "Population using at least basic drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Total"
+                        },
+                "Value": "87"
+              },
+              {
+                "dims": {
+                          "REGION": "South-East Asia",
+                          "YEAR": "2012",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Rural"
+                        },
+                "Value": "50"
+              },
+              {
+                "dims": {
+                          "REGION": "South-East Asia",
+                          "YEAR": "2011",
+                          "GHO": "Population using at least basic drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Urban"
+                        },
+                "Value": "94"
+              },
+              {
+                "dims": {
+                          "REGION": "South-East Asia",
+                          "YEAR": "2011",
+                          "GHO": "Population using at least basic drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Total"
+                        },
+                "Value": "87"
+              },
+              {
+                "dims": {
+                          "REGION": "South-East Asia",
+                          "YEAR": "2011",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Rural"
+                        },
+                "Value": "49"
+              },
+              {
+                "dims": {
+                          "REGION": "South-East Asia",
+                          "YEAR": "2010",
+                          "GHO": "Population using at least basic drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Urban"
+                        },
+                "Value": "93"
+              },
+              {
+                "dims": {
+                          "REGION": "South-East Asia",
+                          "YEAR": "2010",
+                          "GHO": "Population using at least basic drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Total"
+                        },
+                "Value": "86"
+              },
+              {
+                "dims": {
+                          "REGION": "South-East Asia",
+                          "YEAR": "2010",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Rural"
+                        },
+                "Value": "48"
+              },
+              {
+                "dims": {
+                          "REGION": "South-East Asia",
+                          "YEAR": "2009",
+                          "GHO": "Population using at least basic drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Urban"
+                        },
+                "Value": "93"
+              },
+              {
+                "dims": {
+                          "REGION": "South-East Asia",
+                          "YEAR": "2009",
+                          "GHO": "Population using at least basic drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Total"
+                        },
+                "Value": "86"
+              },
+              {
+                "dims": {
+                          "REGION": "South-East Asia",
+                          "YEAR": "2009",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Rural"
+                        },
+                "Value": "47"
+              },
+              {
+                "dims": {
+                          "REGION": "South-East Asia",
+                          "YEAR": "2008",
+                          "GHO": "Population using at least basic drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Urban"
+                        },
+                "Value": "93"
+              },
+              {
+                "dims": {
+                          "REGION": "South-East Asia",
+                          "YEAR": "2008",
+                          "GHO": "Population using at least basic drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Total"
+                        },
+                "Value": "85"
+              },
+              {
+                "dims": {
+                          "REGION": "South-East Asia",
+                          "YEAR": "2008",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Rural"
+                        },
+                "Value": "45"
+              },
+              {
+                "dims": {
+                          "REGION": "South-East Asia",
+                          "YEAR": "2007",
+                          "GHO": "Population using at least basic drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Urban"
+                        },
+                "Value": "93"
+              },
+              {
+                "dims": {
+                          "REGION": "South-East Asia",
+                          "YEAR": "2007",
+                          "GHO": "Population using at least basic drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Total"
+                        },
+                "Value": "85"
+              },
+              {
+                "dims": {
+                          "REGION": "South-East Asia",
+                          "YEAR": "2007",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Rural"
+                        },
+                "Value": "44"
+              },
+              {
+                "dims": {
+                          "REGION": "South-East Asia",
+                          "YEAR": "2006",
+                          "GHO": "Population using at least basic drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Urban"
+                        },
+                "Value": "93"
+              },
+              {
+                "dims": {
+                          "REGION": "South-East Asia",
+                          "YEAR": "2006",
+                          "GHO": "Population using at least basic drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Total"
+                        },
+                "Value": "84"
+              },
+              {
+                "dims": {
+                          "REGION": "South-East Asia",
+                          "YEAR": "2006",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Rural"
+                        },
+                "Value": "43"
+              },
+              {
+                "dims": {
+                          "REGION": "South-East Asia",
+                          "YEAR": "2005",
+                          "GHO": "Population using at least basic drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Urban"
+                        },
+                "Value": "93"
+              },
+              {
+                "dims": {
+                          "REGION": "South-East Asia",
+                          "YEAR": "2005",
+                          "GHO": "Population using at least basic drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Total"
+                        },
+                "Value": "84"
+              },
+              {
+                "dims": {
+                          "REGION": "South-East Asia",
+                          "YEAR": "2005",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Rural"
+                        },
+                "Value": "42"
+              },
+              {
+                "dims": {
+                          "REGION": "South-East Asia",
+                          "YEAR": "2004",
+                          "GHO": "Population using at least basic drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Urban"
+                        },
+                "Value": "93"
+              },
+              {
+                "dims": {
+                          "REGION": "South-East Asia",
+                          "YEAR": "2004",
+                          "GHO": "Population using at least basic drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Total"
+                        },
+                "Value": "83"
+              },
+              {
+                "dims": {
+                          "REGION": "South-East Asia",
+                          "YEAR": "2004",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Rural"
+                        },
+                "Value": "41"
+              },
+              {
+                "dims": {
+                          "REGION": "South-East Asia",
+                          "YEAR": "2003",
+                          "GHO": "Population using at least basic drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Urban"
+                        },
+                "Value": "92"
+              },
+              {
+                "dims": {
+                          "REGION": "South-East Asia",
+                          "YEAR": "2003",
+                          "GHO": "Population using at least basic drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Total"
+                        },
+                "Value": "82"
+              },
+              {
+                "dims": {
+                          "REGION": "South-East Asia",
+                          "YEAR": "2003",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Rural"
+                        },
+                "Value": "40"
+              },
+              {
+                "dims": {
+                          "REGION": "South-East Asia",
+                          "YEAR": "2002",
+                          "GHO": "Population using at least basic drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Urban"
+                        },
+                "Value": "92"
+              },
+              {
+                "dims": {
+                          "REGION": "South-East Asia",
+                          "YEAR": "2002",
+                          "GHO": "Population using at least basic drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Total"
+                        },
+                "Value": "82"
+              },
+              {
+                "dims": {
+                          "REGION": "South-East Asia",
+                          "YEAR": "2002",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Rural"
+                        },
+                "Value": "39"
+              },
+              {
+                "dims": {
+                          "REGION": "South-East Asia",
+                          "YEAR": "2001",
+                          "GHO": "Population using at least basic drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Urban"
+                        },
+                "Value": "92"
+              },
+              {
+                "dims": {
+                          "REGION": "South-East Asia",
+                          "YEAR": "2001",
+                          "GHO": "Population using at least basic drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Total"
+                        },
+                "Value": "81"
+              },
+              {
+                "dims": {
+                          "REGION": "South-East Asia",
+                          "YEAR": "2001",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Rural"
+                        },
+                "Value": "38"
+              },
+              {
+                "dims": {
+                          "REGION": "South-East Asia",
+                          "YEAR": "2000",
+                          "GHO": "Population using at least basic drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Urban"
+                        },
+                "Value": "92"
+              },
+              {
+                "dims": {
+                          "REGION": "South-East Asia",
+                          "YEAR": "2000",
+                          "GHO": "Population using at least basic drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Total"
+                        },
+                "Value": "81"
+              },
+              {
+                "dims": {
+                          "REGION": "South-East Asia",
+                          "YEAR": "2000",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Rural"
+                        },
+                "Value": "37"
+              },
+              {
+                "dims": {
+                          "REGION": "Europe",
+                          "YEAR": "2015",
+                          "GHO": "Population using at least basic drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Rural"
+                        },
+                "Value": "94"
+              },
+              {
+                "dims": {
+                          "REGION": "Europe",
+                          "YEAR": "2015",
+                          "GHO": "Population using at least basic drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Urban"
+                        },
+                "Value": "99"
+              },
+              {
+                "dims": {
+                          "REGION": "Europe",
+                          "YEAR": "2015",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Total"
+                        },
+                "Value": "91"
+              },
+              {
+                "dims": {
+                          "REGION": "Europe",
+                          "YEAR": "2014",
+                          "GHO": "Population using at least basic drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Rural"
+                        },
+                "Value": "94"
+              },
+              {
+                "dims": {
+                          "REGION": "Europe",
+                          "YEAR": "2014",
+                          "GHO": "Population using at least basic drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Urban"
+                        },
+                "Value": "99"
+              },
+              {
+                "dims": {
+                          "REGION": "Europe",
+                          "YEAR": "2014",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Total"
+                        },
+                "Value": "91"
+              },
+              {
+                "dims": {
+                          "REGION": "Europe",
+                          "YEAR": "2013",
+                          "GHO": "Population using at least basic drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Rural"
+                        },
+                "Value": "94"
+              },
+              {
+                "dims": {
+                          "REGION": "Europe",
+                          "YEAR": "2013",
+                          "GHO": "Population using at least basic drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Urban"
+                        },
+                "Value": "99"
+              },
+              {
+                "dims": {
+                          "REGION": "Europe",
+                          "YEAR": "2013",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Total"
+                        },
+                "Value": "91"
+              },
+              {
+                "dims": {
+                          "REGION": "Europe",
+                          "YEAR": "2012",
+                          "GHO": "Population using at least basic drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Rural"
+                        },
+                "Value": "94"
+              },
+              {
+                "dims": {
+                          "REGION": "Europe",
+                          "YEAR": "2012",
+                          "GHO": "Population using at least basic drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Urban"
+                        },
+                "Value": "99"
+              },
+              {
+                "dims": {
+                          "REGION": "Europe",
+                          "YEAR": "2012",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Total"
+                        },
+                "Value": "90"
+              },
+              {
+                "dims": {
+                          "REGION": "Europe",
+                          "YEAR": "2011",
+                          "GHO": "Population using at least basic drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Rural"
+                        },
+                "Value": "94"
+              },
+              {
+                "dims": {
+                          "REGION": "Europe",
+                          "YEAR": "2011",
+                          "GHO": "Population using at least basic drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Urban"
+                        },
+                "Value": "99"
+              },
+              {
+                "dims": {
+                          "REGION": "Europe",
+                          "YEAR": "2011",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Total"
+                        },
+                "Value": "89"
+              },
+              {
+                "dims": {
+                          "REGION": "Europe",
+                          "YEAR": "2010",
+                          "GHO": "Population using at least basic drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Rural"
+                        },
+                "Value": "94"
+              },
+              {
+                "dims": {
+                          "REGION": "Europe",
+                          "YEAR": "2010",
+                          "GHO": "Population using at least basic drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Urban"
+                        },
+                "Value": "99"
+              },
+              {
+                "dims": {
+                          "REGION": "Europe",
+                          "YEAR": "2010",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Total"
+                        },
+                "Value": "89"
+              },
+              {
+                "dims": {
+                          "REGION": "Europe",
+                          "YEAR": "2009",
+                          "GHO": "Population using at least basic drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Rural"
+                        },
+                "Value": "94"
+              },
+              {
+                "dims": {
+                          "REGION": "Europe",
+                          "YEAR": "2009",
+                          "GHO": "Population using at least basic drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Urban"
+                        },
+                "Value": "99"
+              },
+              {
+                "dims": {
+                          "REGION": "Europe",
+                          "YEAR": "2009",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Total"
+                        },
+                "Value": "89"
+              },
+              {
+                "dims": {
+                          "REGION": "Europe",
+                          "YEAR": "2008",
+                          "GHO": "Population using at least basic drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Rural"
+                        },
+                "Value": "94"
+              },
+              {
+                "dims": {
+                          "REGION": "Europe",
+                          "YEAR": "2008",
+                          "GHO": "Population using at least basic drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Urban"
+                        },
+                "Value": "99"
+              },
+              {
+                "dims": {
+                          "REGION": "Europe",
+                          "YEAR": "2008",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Total"
+                        },
+                "Value": "89"
+              },
+              {
+                "dims": {
+                          "REGION": "Europe",
+                          "YEAR": "2007",
+                          "GHO": "Population using at least basic drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Rural"
+                        },
+                "Value": "93"
+              },
+              {
+                "dims": {
+                          "REGION": "Europe",
+                          "YEAR": "2007",
+                          "GHO": "Population using at least basic drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Urban"
+                        },
+                "Value": "99"
+              },
+              {
+                "dims": {
+                          "REGION": "Europe",
+                          "YEAR": "2007",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Total"
+                        },
+                "Value": "88"
+              },
+              {
+                "dims": {
+                          "REGION": "Europe",
+                          "YEAR": "2006",
+                          "GHO": "Population using at least basic drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Rural"
+                        },
+                "Value": "93"
+              },
+              {
+                "dims": {
+                          "REGION": "Europe",
+                          "YEAR": "2006",
+                          "GHO": "Population using at least basic drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Urban"
+                        },
+                "Value": "99"
+              },
+              {
+                "dims": {
+                          "REGION": "Europe",
+                          "YEAR": "2006",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Total"
+                        },
+                "Value": "88"
+              },
+              {
+                "dims": {
+                          "REGION": "Europe",
+                          "YEAR": "2005",
+                          "GHO": "Population using at least basic drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Rural"
+                        },
+                "Value": "93"
+              },
+              {
+                "dims": {
+                          "REGION": "Europe",
+                          "YEAR": "2005",
+                          "GHO": "Population using at least basic drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Urban"
+                        },
+                "Value": "99"
+              },
+              {
+                "dims": {
+                          "REGION": "Europe",
+                          "YEAR": "2005",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Total"
+                        },
+                "Value": "88"
+              },
+              {
+                "dims": {
+                          "REGION": "Europe",
+                          "YEAR": "2004",
+                          "GHO": "Population using at least basic drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Rural"
+                        },
+                "Value": "92"
+              },
+              {
+                "dims": {
+                          "REGION": "Europe",
+                          "YEAR": "2004",
+                          "GHO": "Population using at least basic drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Urban"
+                        },
+                "Value": "99"
+              },
+              {
+                "dims": {
+                          "REGION": "Europe",
+                          "YEAR": "2004",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Total"
+                        },
+                "Value": "87"
+              },
+              {
+                "dims": {
+                          "REGION": "Europe",
+                          "YEAR": "2003",
+                          "GHO": "Population using at least basic drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Rural"
+                        },
+                "Value": "92"
+              },
+              {
+                "dims": {
+                          "REGION": "Europe",
+                          "YEAR": "2003",
+                          "GHO": "Population using at least basic drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Urban"
+                        },
+                "Value": "99"
+              },
+              {
+                "dims": {
+                          "REGION": "Europe",
+                          "YEAR": "2003",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Total"
+                        },
+                "Value": "87"
+              },
+              {
+                "dims": {
+                          "REGION": "Europe",
+                          "YEAR": "2002",
+                          "GHO": "Population using at least basic drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Rural"
+                        },
+                "Value": "92"
+              },
+              {
+                "dims": {
+                          "REGION": "Europe",
+                          "YEAR": "2002",
+                          "GHO": "Population using at least basic drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Urban"
+                        },
+                "Value": "99"
+              },
+              {
+                "dims": {
+                          "REGION": "Europe",
+                          "YEAR": "2002",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Total"
+                        },
+                "Value": "87"
+              },
+              {
+                "dims": {
+                          "REGION": "Europe",
+                          "YEAR": "2001",
+                          "GHO": "Population using at least basic drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Rural"
+                        },
+                "Value": "92"
+              },
+              {
+                "dims": {
+                          "REGION": "Europe",
+                          "YEAR": "2001",
+                          "GHO": "Population using at least basic drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Urban"
+                        },
+                "Value": "99"
+              },
+              {
+                "dims": {
+                          "REGION": "Europe",
+                          "YEAR": "2001",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Total"
+                        },
+                "Value": "86"
+              },
+              {
+                "dims": {
+                          "REGION": "Europe",
+                          "YEAR": "2000",
+                          "GHO": "Population using at least basic drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Rural"
+                        },
+                "Value": "91"
+              },
+              {
+                "dims": {
+                          "REGION": "Europe",
+                          "YEAR": "2000",
+                          "GHO": "Population using at least basic drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Urban"
+                        },
+                "Value": "99"
+              },
+              {
+                "dims": {
+                          "REGION": "Europe",
+                          "YEAR": "2000",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Total"
+                        },
+                "Value": "86"
+              },
+              {
+                "dims": {
+                          "REGION": "Eastern Mediterranean",
+                          "YEAR": "2015",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Rural"
+                        },
+                "Value": "42"
+              },
+              {
+                "dims": {
+                          "REGION": "Eastern Mediterranean",
+                          "YEAR": "2015",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Urban"
+                        },
+                "Value": "69"
+              },
+              {
+                "dims": {
+                          "REGION": "Eastern Mediterranean",
+                          "YEAR": "2015",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Total"
+                        },
+                "Value": "56"
+              },
+              {
+                "dims": {
+                          "REGION": "Eastern Mediterranean",
+                          "YEAR": "2014",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Rural"
+                        },
+                "Value": "41"
+              },
+              {
+                "dims": {
+                          "REGION": "Eastern Mediterranean",
+                          "YEAR": "2014",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Urban"
+                        },
+                "Value": "70"
+              },
+              {
+                "dims": {
+                          "REGION": "Eastern Mediterranean",
+                          "YEAR": "2014",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Total"
+                        },
+                "Value": "56"
+              },
+              {
+                "dims": {
+                          "REGION": "Eastern Mediterranean",
+                          "YEAR": "2013",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Rural"
+                        },
+                "Value": "41"
+              },
+              {
+                "dims": {
+                          "REGION": "Eastern Mediterranean",
+                          "YEAR": "2013",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Urban"
+                        },
+                "Value": "70"
+              },
+              {
+                "dims": {
+                          "REGION": "Eastern Mediterranean",
+                          "YEAR": "2013",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Total"
+                        },
+                "Value": "56"
+              },
+              {
+                "dims": {
+                          "REGION": "Eastern Mediterranean",
+                          "YEAR": "2012",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Rural"
+                        },
+                "Value": "41"
+              },
+              {
+                "dims": {
+                          "REGION": "Eastern Mediterranean",
+                          "YEAR": "2012",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Urban"
+                        },
+                "Value": "70"
+              },
+              {
+                "dims": {
+                          "REGION": "Eastern Mediterranean",
+                          "YEAR": "2012",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Total"
+                        },
+                "Value": "56"
+              },
+              {
+                "dims": {
+                          "REGION": "Eastern Mediterranean",
+                          "YEAR": "2011",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Rural"
+                        },
+                "Value": "40"
+              },
+              {
+                "dims": {
+                          "REGION": "Eastern Mediterranean",
+                          "YEAR": "2011",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Urban"
+                        },
+                "Value": "71"
+              },
+              {
+                "dims": {
+                          "REGION": "Eastern Mediterranean",
+                          "YEAR": "2011",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Total"
+                        },
+                "Value": "56"
+              },
+              {
+                "dims": {
+                          "REGION": "Eastern Mediterranean",
+                          "YEAR": "2010",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Rural"
+                        },
+                "Value": "40"
+              },
+              {
+                "dims": {
+                          "REGION": "Eastern Mediterranean",
+                          "YEAR": "2010",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Urban"
+                        },
+                "Value": "71"
+              },
+              {
+                "dims": {
+                          "REGION": "Eastern Mediterranean",
+                          "YEAR": "2010",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Total"
+                        },
+                "Value": "56"
+              },
+              {
+                "dims": {
+                          "REGION": "Eastern Mediterranean",
+                          "YEAR": "2009",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Rural"
+                        },
+                "Value": "40"
+              },
+              {
+                "dims": {
+                          "REGION": "Eastern Mediterranean",
+                          "YEAR": "2009",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Urban"
+                        },
+                "Value": "71"
+              },
+              {
+                "dims": {
+                          "REGION": "Eastern Mediterranean",
+                          "YEAR": "2009",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Total"
+                        },
+                "Value": "56"
+              },
+              {
+                "dims": {
+                          "REGION": "Eastern Mediterranean",
+                          "YEAR": "2008",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Rural"
+                        },
+                "Value": "39"
+              },
+              {
+                "dims": {
+                          "REGION": "Eastern Mediterranean",
+                          "YEAR": "2008",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Urban"
+                        },
+                "Value": "72"
+              },
+              {
+                "dims": {
+                          "REGION": "Eastern Mediterranean",
+                          "YEAR": "2008",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Total"
+                        },
+                "Value": "55"
+              },
+              {
+                "dims": {
+                          "REGION": "Eastern Mediterranean",
+                          "YEAR": "2007",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Rural"
+                        },
+                "Value": "39"
+              },
+              {
+                "dims": {
+                          "REGION": "Eastern Mediterranean",
+                          "YEAR": "2007",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Urban"
+                        },
+                "Value": "72"
+              },
+              {
+                "dims": {
+                          "REGION": "Eastern Mediterranean",
+                          "YEAR": "2007",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Total"
+                        },
+                "Value": "55"
+              },
+              {
+                "dims": {
+                          "REGION": "Eastern Mediterranean",
+                          "YEAR": "2006",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Rural"
+                        },
+                "Value": "39"
+              },
+              {
+                "dims": {
+                          "REGION": "Eastern Mediterranean",
+                          "YEAR": "2006",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Urban"
+                        },
+                "Value": "72"
+              },
+              {
+                "dims": {
+                          "REGION": "Eastern Mediterranean",
+                          "YEAR": "2006",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Total"
+                        },
+                "Value": "55"
+              },
+              {
+                "dims": {
+                          "REGION": "Eastern Mediterranean",
+                          "YEAR": "2005",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Rural"
+                        },
+                "Value": "38"
+              },
+              {
+                "dims": {
+                          "REGION": "Eastern Mediterranean",
+                          "YEAR": "2005",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Urban"
+                        },
+                "Value": "73"
+              },
+              {
+                "dims": {
+                          "REGION": "Eastern Mediterranean",
+                          "YEAR": "2005",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Total"
+                        },
+                "Value": "55"
+              },
+              {
+                "dims": {
+                          "REGION": "Eastern Mediterranean",
+                          "YEAR": "2004",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Rural"
+                        },
+                "Value": "38"
+              },
+              {
+                "dims": {
+                          "REGION": "Eastern Mediterranean",
+                          "YEAR": "2004",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Urban"
+                        },
+                "Value": "73"
+              },
+              {
+                "dims": {
+                          "REGION": "Eastern Mediterranean",
+                          "YEAR": "2004",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Total"
+                        },
+                "Value": "55"
+              },
+              {
+                "dims": {
+                          "REGION": "Eastern Mediterranean",
+                          "YEAR": "2003",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Rural"
+                        },
+                "Value": "38"
+              },
+              {
+                "dims": {
+                          "REGION": "Eastern Mediterranean",
+                          "YEAR": "2003",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Urban"
+                        },
+                "Value": "73"
+              },
+              {
+                "dims": {
+                          "REGION": "Eastern Mediterranean",
+                          "YEAR": "2003",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Total"
+                        },
+                "Value": "54"
+              },
+              {
+                "dims": {
+                          "REGION": "Eastern Mediterranean",
+                          "YEAR": "2002",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Rural"
+                        },
+                "Value": "38"
+              },
+              {
+                "dims": {
+                          "REGION": "Eastern Mediterranean",
+                          "YEAR": "2002",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Urban"
+                        },
+                "Value": "72"
+              },
+              {
+                "dims": {
+                          "REGION": "Eastern Mediterranean",
+                          "YEAR": "2002",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Total"
+                        },
+                "Value": "54"
+              },
+              {
+                "dims": {
+                          "REGION": "Eastern Mediterranean",
+                          "YEAR": "2001",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Rural"
+                        },
+                "Value": "38"
+              },
+              {
+                "dims": {
+                          "REGION": "Eastern Mediterranean",
+                          "YEAR": "2001",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Urban"
+                        },
+                "Value": "72"
+              },
+              {
+                "dims": {
+                          "REGION": "Eastern Mediterranean",
+                          "YEAR": "2001",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Total"
+                        },
+                "Value": "54"
+              },
+              {
+                "dims": {
+                          "REGION": "Eastern Mediterranean",
+                          "YEAR": "2000",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Rural"
+                        },
+                "Value": "38"
+              },
+              {
+                "dims": {
+                          "REGION": "Eastern Mediterranean",
+                          "YEAR": "2000",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Urban"
+                        },
+                "Value": "71"
+              },
+              {
+                "dims": {
+                          "REGION": "Eastern Mediterranean",
+                          "YEAR": "2000",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Total"
+                        },
+                "Value": "53"
+              },
+              {
+                "dims": {
+                          "REGION": "Western Pacific",
+                          "YEAR": "2015",
+                          "GHO": "Population using at least basic drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Rural"
+                        },
+                "Value": "94"
+              },
+              {
+                "dims": {
+                          "REGION": "Western Pacific",
+                          "YEAR": "2015",
+                          "GHO": "Population using at least basic drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Total"
+                        },
+                "Value": "95"
+              },
+              {
+                "dims": {
+                          "REGION": "Western Pacific",
+                          "YEAR": "2015",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Urban"
+                        },
+                "Value": "93"
+              },
+              {
+                "dims": {
+                          "REGION": "Western Pacific",
+                          "YEAR": "2014",
+                          "GHO": "Population using at least basic drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Rural"
+                        },
+                "Value": "92"
+              },
+              {
+                "dims": {
+                          "REGION": "Western Pacific",
+                          "YEAR": "2014",
+                          "GHO": "Population using at least basic drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Total"
+                        },
+                "Value": "94"
+              },
+              {
+                "dims": {
+                          "REGION": "Western Pacific",
+                          "YEAR": "2014",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Urban"
+                        },
+                "Value": "93"
+              },
+              {
+                "dims": {
+                          "REGION": "Western Pacific",
+                          "YEAR": "2013",
+                          "GHO": "Population using at least basic drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Rural"
+                        },
+                "Value": "90"
+              },
+              {
+                "dims": {
+                          "REGION": "Western Pacific",
+                          "YEAR": "2013",
+                          "GHO": "Population using at least basic drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Total"
+                        },
+                "Value": "94"
+              },
+              {
+                "dims": {
+                          "REGION": "Western Pacific",
+                          "YEAR": "2013",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Urban"
+                        },
+                "Value": "93"
+              },
+              {
+                "dims": {
+                          "REGION": "Western Pacific",
+                          "YEAR": "2012",
+                          "GHO": "Population using at least basic drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Rural"
+                        },
+                "Value": "88"
+              },
+              {
+                "dims": {
+                          "REGION": "Western Pacific",
+                          "YEAR": "2012",
+                          "GHO": "Population using at least basic drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Total"
+                        },
+                "Value": "93"
+              },
+              {
+                "dims": {
+                          "REGION": "Western Pacific",
+                          "YEAR": "2012",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Urban"
+                        },
+                "Value": "93"
+              },
+              {
+                "dims": {
+                          "REGION": "Western Pacific",
+                          "YEAR": "2011",
+                          "GHO": "Population using at least basic drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Rural"
+                        },
+                "Value": "87"
+              },
+              {
+                "dims": {
+                          "REGION": "Western Pacific",
+                          "YEAR": "2011",
+                          "GHO": "Population using at least basic drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Total"
+                        },
+                "Value": "92"
+              },
+              {
+                "dims": {
+                          "REGION": "Western Pacific",
+                          "YEAR": "2011",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Urban"
+                        },
+                "Value": "93"
+              },
+              {
+                "dims": {
+                          "REGION": "Western Pacific",
+                          "YEAR": "2010",
+                          "GHO": "Population using at least basic drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Rural"
+                        },
+                "Value": "85"
+              },
+              {
+                "dims": {
+                          "REGION": "Western Pacific",
+                          "YEAR": "2010",
+                          "GHO": "Population using at least basic drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Total"
+                        },
+                "Value": "91"
+              },
+              {
+                "dims": {
+                          "REGION": "Western Pacific",
+                          "YEAR": "2010",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Urban"
+                        },
+                "Value": "93"
+              },
+              {
+                "dims": {
+                          "REGION": "Western Pacific",
+                          "YEAR": "2009",
+                          "GHO": "Population using at least basic drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Rural"
+                        },
+                "Value": "83"
+              },
+              {
+                "dims": {
+                          "REGION": "Western Pacific",
+                          "YEAR": "2009",
+                          "GHO": "Population using at least basic drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Total"
+                        },
+                "Value": "90"
+              },
+              {
+                "dims": {
+                          "REGION": "Western Pacific",
+                          "YEAR": "2009",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Urban"
+                        },
+                "Value": "94"
+              },
+              {
+                "dims": {
+                          "REGION": "Western Pacific",
+                          "YEAR": "2008",
+                          "GHO": "Population using at least basic drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Rural"
+                        },
+                "Value": "81"
+              },
+              {
+                "dims": {
+                          "REGION": "Western Pacific",
+                          "YEAR": "2008",
+                          "GHO": "Population using at least basic drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Total"
+                        },
+                "Value": "89"
+              },
+              {
+                "dims": {
+                          "REGION": "Western Pacific",
+                          "YEAR": "2008",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Urban"
+                        },
+                "Value": "94"
+              },
+              {
+                "dims": {
+                          "REGION": "Western Pacific",
+                          "YEAR": "2007",
+                          "GHO": "Population using at least basic drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Rural"
+                        },
+                "Value": "79"
+              },
+              {
+                "dims": {
+                          "REGION": "Western Pacific",
+                          "YEAR": "2007",
+                          "GHO": "Population using at least basic drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Total"
+                        },
+                "Value": "88"
+              },
+              {
+                "dims": {
+                          "REGION": "Western Pacific",
+                          "YEAR": "2007",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Urban"
+                        },
+                "Value": "94"
+              },
+              {
+                "dims": {
+                          "REGION": "Western Pacific",
+                          "YEAR": "2006",
+                          "GHO": "Population using at least basic drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Rural"
+                        },
+                "Value": "77"
+              },
+              {
+                "dims": {
+                          "REGION": "Western Pacific",
+                          "YEAR": "2006",
+                          "GHO": "Population using at least basic drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Total"
+                        },
+                "Value": "87"
+              },
+              {
+                "dims": {
+                          "REGION": "Western Pacific",
+                          "YEAR": "2006",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Urban"
+                        },
+                "Value": "94"
+              },
+              {
+                "dims": {
+                          "REGION": "Western Pacific",
+                          "YEAR": "2005",
+                          "GHO": "Population using at least basic drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Rural"
+                        },
+                "Value": "76"
+              },
+              {
+                "dims": {
+                          "REGION": "Western Pacific",
+                          "YEAR": "2005",
+                          "GHO": "Population using at least basic drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Total"
+                        },
+                "Value": "86"
+              },
+              {
+                "dims": {
+                          "REGION": "Western Pacific",
+                          "YEAR": "2005",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Urban"
+                        },
+                "Value": "94"
+              },
+              {
+                "dims": {
+                          "REGION": "Western Pacific",
+                          "YEAR": "2004",
+                          "GHO": "Population using at least basic drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Rural"
+                        },
+                "Value": "74"
+              },
+              {
+                "dims": {
+                          "REGION": "Western Pacific",
+                          "YEAR": "2004",
+                          "GHO": "Population using at least basic drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Total"
+                        },
+                "Value": "85"
+              },
+              {
+                "dims": {
+                          "REGION": "Western Pacific",
+                          "YEAR": "2004",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Urban"
+                        },
+                "Value": "94"
+              },
+              {
+                "dims": {
+                          "REGION": "Western Pacific",
+                          "YEAR": "2003",
+                          "GHO": "Population using at least basic drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Rural"
+                        },
+                "Value": "72"
+              },
+              {
+                "dims": {
+                          "REGION": "Western Pacific",
+                          "YEAR": "2003",
+                          "GHO": "Population using at least basic drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Total"
+                        },
+                "Value": "83"
+              },
+              {
+                "dims": {
+                          "REGION": "Western Pacific",
+                          "YEAR": "2003",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Urban"
+                        },
+                "Value": "94"
+              },
+              {
+                "dims": {
+                          "REGION": "Western Pacific",
+                          "YEAR": "2002",
+                          "GHO": "Population using at least basic drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Rural"
+                        },
+                "Value": "70"
+              },
+              {
+                "dims": {
+                          "REGION": "Western Pacific",
+                          "YEAR": "2002",
+                          "GHO": "Population using at least basic drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Total"
+                        },
+                "Value": "82"
+              },
+              {
+                "dims": {
+                          "REGION": "Western Pacific",
+                          "YEAR": "2002",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Urban"
+                        },
+                "Value": "94"
+              },
+              {
+                "dims": {
+                          "REGION": "Western Pacific",
+                          "YEAR": "2001",
+                          "GHO": "Population using at least basic drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Rural"
+                        },
+                "Value": "68"
+              },
+              {
+                "dims": {
+                          "REGION": "Western Pacific",
+                          "YEAR": "2001",
+                          "GHO": "Population using at least basic drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Total"
+                        },
+                "Value": "80"
+              },
+              {
+                "dims": {
+                          "REGION": "Western Pacific",
+                          "YEAR": "2001",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Urban"
+                        },
+                "Value": "94"
+              },
+              {
+                "dims": {
+                          "REGION": "Western Pacific",
+                          "YEAR": "2000",
+                          "GHO": "Population using at least basic drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Rural"
+                        },
+                "Value": "68"
+              },
+              {
+                "dims": {
+                          "REGION": "Western Pacific",
+                          "YEAR": "2000",
+                          "GHO": "Population using at least basic drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Total"
+                        },
+                "Value": "80"
+              },
+              {
+                "dims": {
+                          "REGION": "Western Pacific",
+                          "YEAR": "2000",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Urban"
+                        },
+                "Value": "94"
+              },
+              {
+                "dims": {
+                          "REGION": "(WHO) Global",
+                          "YEAR": "2015",
+                          "GHO": "Population using at least basic drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Total"
+                        },
+                "Value": "89"
+              },
+              {
+                "dims": {
+                          "REGION": "(WHO) Global",
+                          "YEAR": "2015",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Total"
+                        },
+                "Value": "71"
+              },
+              {
+                "dims": {
+                          "REGION": "(WHO) Global",
+                          "YEAR": "2014",
+                          "GHO": "Population using at least basic drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Total"
+                        },
+                "Value": "88"
+              },
+              {
+                "dims": {
+                          "REGION": "(WHO) Global",
+                          "YEAR": "2014",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Total"
+                        },
+                "Value": "71"
+              },
+              {
+                "dims": {
+                          "REGION": "(WHO) Global",
+                          "YEAR": "2013",
+                          "GHO": "Population using at least basic drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Total"
+                        },
+                "Value": "88"
+              },
+              {
+                "dims": {
+                          "REGION": "(WHO) Global",
+                          "YEAR": "2013",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Total"
+                        },
+                "Value": "71"
+              },
+              {
+                "dims": {
+                          "REGION": "(WHO) Global",
+                          "YEAR": "2012",
+                          "GHO": "Population using at least basic drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Total"
+                        },
+                "Value": "87"
+              },
+              {
+                "dims": {
+                          "REGION": "(WHO) Global",
+                          "YEAR": "2012",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Total"
+                        },
+                "Value": "71"
+              },
+              {
+                "dims": {
+                          "REGION": "(WHO) Global",
+                          "YEAR": "2011",
+                          "GHO": "Population using at least basic drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Total"
+                        },
+                "Value": "87"
+              },
+              {
+                "dims": {
+                          "REGION": "(WHO) Global",
+                          "YEAR": "2011",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Total"
+                        },
+                "Value": "71"
+              },
+              {
+                "dims": {
+                          "REGION": "(WHO) Global",
+                          "YEAR": "2010",
+                          "GHO": "Population using at least basic drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Total"
+                        },
+                "Value": "86"
+              },
+              {
+                "dims": {
+                          "REGION": "(WHO) Global",
+                          "YEAR": "2010",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Total"
+                        },
+                "Value": "71"
+              },
+              {
+                "dims": {
+                          "REGION": "(WHO) Global",
+                          "YEAR": "2009",
+                          "GHO": "Population using at least basic drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Total"
+                        },
+                "Value": "86"
+              },
+              {
+                "dims": {
+                          "REGION": "(WHO) Global",
+                          "YEAR": "2009",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Total"
+                        },
+                "Value": "70"
+              },
+              {
+                "dims": {
+                          "REGION": "(WHO) Global",
+                          "YEAR": "2008",
+                          "GHO": "Population using at least basic drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Total"
+                        },
+                "Value": "85"
+              },
+              {
+                "dims": {
+                          "REGION": "(WHO) Global",
+                          "YEAR": "2008",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Total"
+                        },
+                "Value": "69"
+              },
+              {
+                "dims": {
+                          "REGION": "(WHO) Global",
+                          "YEAR": "2007",
+                          "GHO": "Population using at least basic drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Total"
+                        },
+                "Value": "85"
+              },
+              {
+                "dims": {
+                          "REGION": "(WHO) Global",
+                          "YEAR": "2007",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Total"
+                        },
+                "Value": "68"
+              },
+              {
+                "dims": {
+                          "REGION": "(WHO) Global",
+                          "YEAR": "2006",
+                          "GHO": "Population using at least basic drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Total"
+                        },
+                "Value": "84"
+              },
+              {
+                "dims": {
+                          "REGION": "(WHO) Global",
+                          "YEAR": "2006",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Total"
+                        },
+                "Value": "67"
+              },
+              {
+                "dims": {
+                          "REGION": "(WHO) Global",
+                          "YEAR": "2005",
+                          "GHO": "Population using at least basic drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Total"
+                        },
+                "Value": "84"
+              },
+              {
+                "dims": {
+                          "REGION": "(WHO) Global",
+                          "YEAR": "2005",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Total"
+                        },
+                "Value": "66"
+              },
+              {
+                "dims": {
+                          "REGION": "(WHO) Global",
+                          "YEAR": "2004",
+                          "GHO": "Population using at least basic drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Total"
+                        },
+                "Value": "83"
+              },
+              {
+                "dims": {
+                          "REGION": "(WHO) Global",
+                          "YEAR": "2004",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Total"
+                        },
+                "Value": "65"
+              },
+              {
+                "dims": {
+                          "REGION": "(WHO) Global",
+                          "YEAR": "2003",
+                          "GHO": "Population using at least basic drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Total"
+                        },
+                "Value": "83"
+              },
+              {
+                "dims": {
+                          "REGION": "(WHO) Global",
+                          "YEAR": "2003",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Total"
+                        },
+                "Value": "64"
+              },
+              {
+                "dims": {
+                          "REGION": "(WHO) Global",
+                          "YEAR": "2002",
+                          "GHO": "Population using at least basic drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Total"
+                        },
+                "Value": "82"
+              },
+              {
+                "dims": {
+                          "REGION": "(WHO) Global",
+                          "YEAR": "2002",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Total"
+                        },
+                "Value": "63"
+              },
+              {
+                "dims": {
+                          "REGION": "(WHO) Global",
+                          "YEAR": "2001",
+                          "GHO": "Population using at least basic drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Total"
+                        },
+                "Value": "81"
+              },
+              {
+                "dims": {
+                          "REGION": "(WHO) Global",
+                          "YEAR": "2001",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Total"
+                        },
+                "Value": "62"
+              },
+              {
+                "dims": {
+                          "REGION": "(WHO) Global",
+                          "YEAR": "2000",
+                          "GHO": "Population using at least basic drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Total"
+                        },
+                "Value": "81"
+              },
+              {
+                "dims": {
+                          "REGION": "(WHO) Global",
+                          "YEAR": "2000",
+                          "GHO": "Population using safely managed drinking-water services (%)",
+                          "RESIDENCEAREATYPE": "Total"
+                        },
+                "Value": "61"
+              }
+      ]
+}

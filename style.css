@@ -6,11 +6,14 @@ html {background-color: #D8D8D8}
 
 
 /*pagecontainer*/
+
 .pagecontainer{
   max-width:5000px;
   margin: 80px 80px 0px;
 }
+
 /*drop down menu*/
+
 .dropbtn {
   background-color: #eee;
   color: #444;
@@ -74,7 +77,13 @@ html {background-color: #D8D8D8}
 
 * {box-sizing: border-box}
 body {font-family: Verdana, sans-serif; margin:0}
-.mySlides {display: none}
+
+.mySlides {
+  display: none;
+  border-radius:inherit;
+}
+
+
 img {vertical-align: middle;}
 
 /* Slideshow container */
@@ -82,8 +91,7 @@ img {vertical-align: middle;}
   max-width: 1400px;
   position: relative;
   z-index: 1;
-  border-radius:10px
-  ;
+  border-radius:10px;
 }
 
 /* Next & previous buttons */
@@ -155,6 +163,7 @@ img {vertical-align: middle;}
   -webkit-animation-duration: 1.5s;
   animation-name: fade;
   animation-duration: 1.5s;
+  overflow:hidden;
 }
 
 @-webkit-keyframes fade {

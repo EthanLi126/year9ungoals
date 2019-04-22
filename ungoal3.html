@@ -1,78 +1,92 @@
 <!DOCTYPE html>
 <html>
 <head>
+<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:600" rel="stylesheet">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
 
+<!--pagecontainer-->
+<div class="pagecontainer">
+  <!--dropdown menu-->
+  <div class="dropdown">
+    <button style="background-color:#B7EDB1" onclick="dropdownMenu()" class="dropbtn">Menu</button>
+    <div id="myDropdown" class="dropdown-content">
+      <a style="background-color:#EEDF96;" href="thelink.html">The Link:</a>
+      <a style="background-color:#B7EDB1;"href="ungoal3.html">UN Goal 3:</a>
+      <a style="background-color:#94EAE9"href="ungoal6.html">UN Goal 6:</a>
+    </div>
+  </div>
 
-<div class="dropdown">
-  <button onclick="dropdownMenu()" class="dropbtn">Menu</button>
-  <div id="myDropdown" class="dropdown-content">
-    <a href="thelink.html">The Link:</a>
-    <a href="ungoal3.html">UN Goal 3:</a>
-    <a href="ungoal6.html">UN Goal 6:</a>
+
+<!--slideshow-->
+
+  <div class="slideshow-container">
+
+  <div class="mySlides fade">
+    <div class="numbertext">1 / 2</div>
+    <img src="images/un3image.png" style="width:100%">
+  </div>
+
+  <div class="mySlides fade">
+    <div class="numbertext">2 / 2</div>
+    <img src="images/un3image2.png" style="width:100%">
+  </div>
+
+  <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+  <a class="next" onclick="plusSlides(1)">&#10095;</a>
+
+  </div>
+  <br>
+
+  <div style="text-align:center">
+    <span class="dot" onclick="currentSlide(1)"></span> 
+    <span class="dot" onclick="currentSlide(2)"></span>
+  </div>
+
+<!--accordion-->
+
+  <button style="background-color:#7ECE75;" class="accordion"id="accordion1">Introduction <br> <small> (Click for Introduction)</small></button>
+  <div class="panel">
+    <p>UN Goal 3 is <b>"Good Health and Well-Being"</b>. Many people around the world suffer and die from diseases, some which can be prevented. and many people die prematurely. 
+    </p>
+  </div>
+
+  <button style="background-color:#73BF6A"class="accordion">Information <br> <small> (Click For Information)</small></button>
+  <div class="panel">
+    <p>There are many preventable diseases causing suffering and death in the world. Malaria is an example of that. In 2016, there were 21 million cases of malaria. Malaria can be prevented by malaria nets and a vaccine. A vaccine is similar to a getting a flu shot at a doctor. Air pollution is also a major cause of death; 7 million died around the world.</p>
+  </div>
+
+  <button style="background-color:#67B05F"class="accordion">Questions/Quiz <br> <small> (Click for Questions/Quiz)</small></button>
+  <div class="panel">
+<!--question accordions-->
+    <button style="background-color:#69C15F"class="accordion">How many people died of malaria in 2017?<br> <small> (Click for Answer)</small></button> 
+    <div class="panel">
+      Answer: 435,000
+    </div>
+
+    <button style="background-color:#69BA60"class="accordion">How many people died around the world due to air pollution? <br> <small> (Click for Answer)</small></button> 
+    <div class="panel">
+      Answer: 7 million 
+  </div>
+  </div>
+
+  <button style="background-color:#55944E"class="accordion"id="accordion2">Further Actions <br> <small> (Click for Further Actions)</small></button>
+  <div class="panel" id="panel1" >
+    <p> Against Malaria is a foundation for that helps prevent malaria in areas affected by it. You can ask your parents to donate to Against Malaria. Click the button below to donate  </p>
+    <!--donation button-->
+    <button class="dbutton"><a class="dlink" href=https://secure.unicef.ca/page/31858/donate/1?ea.tracking.id=00DIDN01XXE">Against Malaria</a></button>
+  </div>
+
+<!--footer-->
+
+  <div class="footer" > Sources Used: (Buttons)
+    <button class="sbutton" ><a class="slink"  href="malaria.json">Malaria Deaths JSON File</a> </button> 
+    <button class="sbutton"><a class="slink" href="https://sustainabledevelopment.un.org/sdg6">UN Goal 6</a> </button>
+
   </div>
 </div>
-
-<div class="slideshow-container">
-
-<div class="mySlides fade">
-  <div class="numbertext">1 / 2</div>
-  <img src="goal3wide.png" style="width:100%">
-</div>
-
-<div class="mySlides fade">
-  <div class="numbertext">2 / 2</div>
-  <img src="goal6wide.png" style="width:100%">
-</div>
-
-<a class="prev" onclick="plusSlides(-1)">&#10094;</a>
-<a class="next" onclick="plusSlides(1)">&#10095;</a>
-
-</div>
-<br>
-
-<div style="text-align:center">
-  <span class="dot" onclick="currentSlide(1)"></span> 
-  <span class="dot" onclick="currentSlide(2)"></span>
-</div>
-
-
-<button class="accordion">Introduction <br> <small> (Click for Introduction)</small></button>
-<div class="panel">
-  <p>The UN goals 3 and 6 are linked through <b>waterborne diseases.</b> These diseases are sicknesses that spread through water contaminated by feces, or "poop". 
-  </p>
-</div>
-
-<button class="accordion">Information <br> <small> (Click For Information)</small></button>
-<div class="panel">
-  <p>Cholera is an example of a waterborne disease. It causes severe diarrhea, which can then lead to dehydration (when your body doesn't have enough water) and death. This diarrhea can then spread to other water sources, contaminating them. Because of this, cholera can easily spread in areas with poor sanitation.</p>
-</div>
-
-<button class="accordion">Questions/Quiz <br> <small> (Click for Questions/Quiz)</small></button>
-<div class="panel">
-  <p>How many people die of Cholera each year? 
-    <br>
-    <br> Answer: 100,000-140,000
-    <br>
-    <br> Where does Cholera affect the most people?
-    <br>
-    <br> Answer: Crowded areas with poor sanitation, such as remote villages, refugee camps, and conflict zones.</p>
-</div>
-
-<button class="accordion">Further Actions <br> <small> (Click for Further Actions)</small></button>
-<div class="panel">
-  <p>Cholera can be prevented with vaccines. However, areas affected by cholera are often remote or poor, and lack resources. You can ask your parents to donate to doctors without borders, an organizatio that gives vaccines to people in areas affected by cholera. Click <a href=https://donate.doctorswithoutborders.org/onetime.cfm?utm_expid=.OZRYu6o-TOaN6-M8xoRzVw.0&utm_referrer=https%3A%2F%2Fwww.doctorswithoutborders.org%2Fwhat-we-do%2Fmedical-issues%2Fcholera">Here</a> to donate</p>
-</div>
-
-
-
-<div class="footer"> Sources Used:<a href="choleradata.json">Cholera Json File</a>
-
-</div>
-
 
 <script src="script1.js"></script>
 

@@ -5,73 +5,89 @@
 <link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
-
-
-<div class="dropdown">
-  <button onclick="dropdownMenu()" class="dropbtn">Menu</button>
-  <div id="myDropdown" class="dropdown-content">
-    <a href="thelink.html">The Link:</a>
-    <a href="ungoal3.html">UN Goal 3:</a>
-    <a href="ungoal6.html">UN Goal 6:</a>
+<!--page container-->
+<div class="pagecontainer">
+  <!--dropdown menu-->
+  <div class="dropdown">
+    <button style="background-color:#94EAE9" onclick="dropdownMenu()" class="dropbtn">Menu</button>
+    <div id="myDropdown" class="dropdown-content">
+      <a style="background-color:#EEDF96;" href="thelink.html">The Link:</a>
+      <a style="background-color:#B7EDB1;"href="ungoal3.html">UN Goal 3:</a>
+      <a style="background-color:#94EAE9"href="ungoal6.html">UN Goal 6:</a>
+    </div>
   </div>
-</div>
-
-<div class="slideshow-container">
-
-<div class="mySlides fade">
-  <div class="numbertext">1 / 2</div>
-  <img src="goal3wide.png" style="width:100%">
-</div>
-
-<div class="mySlides fade">
-  <div class="numbertext">2 / 2</div>
-  <img src="goal6wide.png" style="width:100%">
-</div>
-
-<a class="prev" onclick="plusSlides(-1)">&#10094;</a>
-<a class="next" onclick="plusSlides(1)">&#10095;</a>
-
-</div>
-<br>
-
-<div style="text-align:center">
-  <span class="dot" onclick="currentSlide(1)"></span> 
-  <span class="dot" onclick="currentSlide(2)"></span>
-</div>
-
-
-<button class="accordion">Introduction <br> <small> (Click for Introduction)</small></button>
-<div class="panel">
-  <p> <b>  
-  </p>
-</div>
-
-<button class="accordion">Information <br> <small> (Click For Information)</small></button>
-<div class="panel">
-  <p></p>
-</div>
-
-<button class="accordion">Questions/Quiz <br> <small> (Click for Questions/Quiz)</small></button>
-<div class="panel">
-  <p>How many people die of Cholera each year? 
-    <br>
-    <br> Answer: 100,000-140,000
-    <br>
-    <br> Where does Cholera affect the most people?
-    <br>
-    <br> Answer: Crowded areas with poor sanitation, such as remote villages, refugee camps, and conflict zones.</p>
-</div>
-
-<button class="accordion">Further Actions <br> <small> (Click for Further Actions)</small></button>
-<div class="panel">
-  <p>Cholera can be prevented with vaccines. However, areas affected by cholera are often remote or poor, and lack resources. You can ask your parents to donate to doctors without borders, an organizatio that gives vaccines to people in areas affected by cholera. Click <a href=https://donate.doctorswithoutborders.org/onetime.cfm?utm_expid=.OZRYu6o-TOaN6-M8xoRzVw.0&utm_referrer=https%3A%2F%2Fwww.doctorswithoutborders.org%2Fwhat-we-do%2Fmedical-issues%2Fcholera">Here</a> to donate</p>
-</div>
 
 
 
-<div class="footer"> Sources Used:<a href="water.json">Basic and safely managed drinking water services 
-Data Json File</a>  <a href="https://sustainabledevelopment.un.org/sdg3">UN Goal 6</a>
+<!--slideshow-->
+  <div class="slideshow-container">
 
+  <div class="mySlides fade">
+    <div class="numbertext">1 / 2</div>
+    <img src="images/un6image.png" style="width:100%">
+  </div>
+
+  <div class="mySlides fade">
+    <div class="numbertext">2 / 2</div>
+    <img src="images/un6image2.png" style="width:100%">
+  </div>
+
+  <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+  <a class="next" onclick="plusSlides(1)">&#10095;</a>
+
+  </div>
+  <br>
+
+  <div style="text-align:center">
+    <span class="dot" onclick="currentSlide(1)"></span> 
+    <span class="dot" onclick="currentSlide(2)"></span>
+  </div>
+
+<!--accordion-->
+  <button style="background-color:#68CFCD"class="accordion" id="accordion1">Introduction <br> <small> (Click for Introduction)</small></button>
+  <div class="panel">
+    <p>UN Goal 6 is <b>"Clean Water and Sanitation"</b>. Many people around the still do not have clean water or places where they can wash their hands, take a shower, and use a washroom. 
+    </p>
+  </div>
+
+  <button style="background-color:#60BAB8"class="accordion">Information <br> <small> (Click For Information)</small></button>
+  <div class="panel">
+    <p>Clean water and being clean is something we all take for granted. When you go home, you can drink a glass of water, take a shower, and go to the toilet. However, In 2015, 29 percent of the global population didn't have clean and safe drinking water supplies. Thats over <b>2 billion</b> people! On top of that <b>892 million</b> people could not use, or did not have toilets. </p>
+  </div>
+
+  <button style="background-color:#57ABA9"class="accordion">Questions/Quiz <br> <small> (Click for Questions/Quiz)</small></button>
+  <div class="panel">
+<!--question accordion-->
+    <button style="background-color:#479290"class="accordion">How many people didn't have clean and safe drinking water supplies in 2015?<br> <small> (Click for Answer)</small></button> 
+    <div class="panel">
+      Answer: Over 2 Billion
+    </div>
+
+    <button style="background-color:#3E8B89"class="accordion">How many people did not have, or could not use toilets? <br> <small> (Click for Answer)</small></button> 
+    <div class="panel">
+      Answer: 892 Million
+  </div>
+  </div>
+
+  <button style="background-color:#337775"class="accordion" id="accordion2">Further Actions <br> <small> (Click for Further Actions)</small></button>
+  <div class="panel"id="panel1">
+    <p>UNICEF is an organization that has brought clean water and sanitation to 2 billion people around the world. However, they need donations to do so. You can ask your parents to donate to Doctors without borders. Click the button below to donate  </p>
+    <!--donate button-->
+    <button class="dbutton"><a class="dlink" href=https://secure.unicef.ca/page/31858/donate/1?ea.tracking.id=00DIDN01XXE">UNICEF</a></button>
+  </div>
+
+
+<!--footer-->
+  <div class="footer" > Sources Used:(Buttons)
+
+    <button class="sbutton" ><a class="slink" href="water.json">Goal 6 JSON File</a> </button> 
+
+    <button class="sbutton" ><a class="slink" href="https://sustainabledevelopment.un.org/sdg6">UN goal 6 site </a> </button>
+
+    <button class="sbutton" ><a class="slink" href="https://www.google.com/search?q=how+many+people+in+the+world&oq=how+many+people+in+the+world&aqs=chrome..69i57j0l5.3056j0j7&sourceid=chrome&ie=UTF-8">Amount of people in the world</a></button>
+
+
+  </div>
 </div>
 
 
